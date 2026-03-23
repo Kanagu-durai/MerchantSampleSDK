@@ -1,9 +1,5 @@
 # Deluxe Mobile SDK
 
-![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android-blue)
-![iOS](https://img.shields.io/badge/iOS-13%2B-black)
-![Android](https://img.shields.io/badge/Android-API%2024%2B-green)
-![Language](https://img.shields.io/badge/language-Swift%20%7C%20Kotlin-orange)
 ![Release](https://img.shields.io/badge/release-v1.0.0-blue)
 ![License](https://img.shields.io/badge/license-Commercial-lightgrey)
 
@@ -62,8 +58,8 @@ The Deluxe Mobile SDK provides a comprehensive set of tools and services to simp
 - Email and SMS receipt delivery
 
 ### Native SDKs
-- iOS SDK built with Swift
-- Android SDK built with Kotlin
+- iOS SDK supports both Objective and Swift
+- Android SDK supports both Java and Kotlin
 
 ## Requirements
 
@@ -82,12 +78,7 @@ The Deluxe Mobile SDK provides a comprehensive set of tools and services to simp
 ### iOS
 
 1. Download the SDK package
-2. Add the following frameworks to your project:
-   - PosSDK.xcframework
-   - PaymentSDK.xcframework
-   - ServiceSDK.xcframework
-   - PaymentHostModule.xcframework
-   - TapToPaySDK.xcframework
+2. Add the all xcframeworks to your project:
 3. Set deployment target to iOS 13 or later
 4. Add frameworks under **Link Binary With Libraries** and **Embed Frameworks**
 
@@ -97,56 +88,26 @@ The Deluxe Mobile SDK provides a comprehensive set of tools and services to simp
 2. Configure your project to reference local dependencies
 3. Sync your project
 
-## Dependencies
-
-### Android
-- possdk-release
-- payment-release
-- servicesdk-release
-- payment-hostmodule-release
-- roamreaderunifiedapi
-
-### iOS
-- PosSDK
-- PaymentSDK
-- ServiceSDK
-- PaymentHostModule
-- TapToPaySDK
-
-## Quickstart
-
-1. Configure the SDK environment (Validation or Production)
-2. Initialize the SDK during application startup
-3. Authenticate the merchant using client credentials
-4. Connect to a supported POS terminal
-5. Execute a transaction
-
-For detailed integration steps, refer to the Implementation Guide.
 
 ## Releases
 
-New versions of the SDK are distributed through the Deluxe Developer Portal.
+The [changelog](https://github.com/Kanagu-durai/MerchantSampleSDK) provides a summary of changes in each release.
+The [migration guide](https://github.com/Kanagu-durai/MerchantSampleSDK) provides instructions on upgrading from older versions.
 
-Each release includes:
-- Feature enhancements
-- Bug fixes
-- Performance improvements
-- Updated documentation
+## Getting Started
 
-Refer to the Developer Portal for the latest release notes and upgrade instructions.
+### Integration
 
-## Documentation
+Get started with our [integration guides](https://github.com/Kanagu-durai/MerchantSampleSDK) and [example projects](https://github.com/Kanagu-durai/MerchantSampleSDK), or [browse the SDK reference](https://github.com/Kanagu-durai/MerchantSampleSDK) for detailed documentation.
 
-The Deluxe Mobile SDK is fully documented on the Deluxe Developer Portal.
+### Examples
 
-### Get Started
-[Deluxe | Developer Portal](https://developer.deluxe.com/docs-content/payments/merchant-services/integration/online-payment-integrations/mobile-sdk/get-started)
+- The **MerchantSampleApp** demonstrates how to integrate and use the SDK.
 
-### Implementation Guide
-[Deluxe | Developer Portal](https://developer.deluxe.com/docs-content/payments/merchant-services/integration/online-payment-integrations/mobile-sdk/mobile-sdk-implementation-guide)
-
-These guides provide step-by-step instructions for installation, configuration, and integrating SDK capabilities including payments, terminal management, and merchant services.
-
+- Additional example projects demonstrate advanced integrations that give you more control over the user experience:
+  - How to establish a connection with a Bluetooth terminal
+  - How to use Tap to Pay
+  
 ## Support
 
 For questions, onboarding, or technical assistance:
