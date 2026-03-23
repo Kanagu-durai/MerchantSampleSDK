@@ -89,8 +89,8 @@ The Deluxe Mobile SDK provides a comprehensive set of tools and services to simp
 
 ## Releases
 
-The [changelog](https://github.com/Kanagu-durai/MerchantSampleSDK) provides a summary of changes in each release.
-The [migration guide](https://github.com/Kanagu-durai/MerchantSampleSDK) provides instructions on upgrading from older versions.
+The [changelog](https://github.com/Kanagu-durai/MerchantSampleSDK/CHANGELOG.md) provides a summary of changes in each release.
+The [migration guide](https://github.com/Kanagu-durai/MerchantSampleSDK/MIGRATING.md) provides instructions on upgrading from older versions.
 
 ## Getting Started
 
@@ -100,9 +100,7 @@ Get started with our [integration guides](https://github.com/Kanagu-durai/Mercha
 
 ### Examples
 
-- The **MerchantSampleApp** demonstrates how to integrate and use the SDK.
-
-- Additional example projects demonstrate advanced integrations that give you more control over the user experience:
+- The [MerchantSampleApp](https://github.com/Kanagu-durai/MerchantSampleSDK) demonstrates how to integrate and use the SDK.
   - How to establish a connection with a Bluetooth terminal
   - How to use Tap to Pay
   
@@ -111,3 +109,8 @@ Get started with our [integration guides](https://github.com/Kanagu-durai/Mercha
 For questions, onboarding, or technical assistance:
 
 **Email:** isvinquiries@deluxe.com
+
+## Licenses
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
