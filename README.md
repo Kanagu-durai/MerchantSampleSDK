@@ -73,14 +73,14 @@ The Deluxe Mobile SDK provides a comprehensive set of tools and services to simp
 
 ## Releases
 
-The [changelog](./blob/main/CHANGELOG.md) provides a summary of changes in each release.
-The [migration guide](./blob/main/MIGRATING.md) provides instructions on upgrading from older versions.
+The [changelog](https://github.com/Kanagu-durai/Deluxe-iOS-SDK/blob/main/CHANGELOG.md) provides a summary of changes in each release.
+The [migration guide](https://github.com/Kanagu-durai/Deluxe-iOS-SDK/blob/main/MIGRATING.md) provides instructions on upgrading from older versions.
 
 
 
 ## Getting Started
 
-Get started with our **[implementation guide](./iOSSDK/Docs/ImplementationGuide)** and **[example project](./iOSSDK/Sample)**, or browse the **[iOS SDK reference guide](./blob/main/iOSSDK/Docs/IOSSdkReferenceGuide.pdf)** for detailed documentation.
+Get started with our **[implementation guide](https://github.com/Kanagu-durai/Deluxe-iOS-SDK/tree/main/iOSSDK/Docs/ImplementationGuide)** and **[example project](https://github.com/Kanagu-durai/Deluxe-iOS-SDK/tree/main/iOSSDK/Sample)**, or browse the **[iOS SDK reference guide](https://github.com/Kanagu-durai/Deluxe-iOS-SDK/blob/main/iOSSDK/Docs/IOSSdkReferenceGuide.pdf)** for detailed documentation.
 
 ## Support
 
