@@ -1,36 +1,12 @@
 # Deluxe Mobile SDK
 
-![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android-blue)
-![iOS](https://img.shields.io/badge/iOS-13%2B-black)
-![Android](https://img.shields.io/badge/Android-API%2024%2B-green)
-![Language](https://img.shields.io/badge/language-Swift%20%7C%20Kotlin-orange)
-![Status](https://img.shields.io/badge/status-Active-success)
-
-Mobile SDK for iOS and Android integration.
-
-The Deluxe Mobile SDK enables developers to integrate secure payment processing and POS terminal management directly into native and hybrid mobile applications.
-
----
-
-## 📚 Table of Contents
-- [Overview](#-overview)
-- [Features](#-features)
-- [Requirements](#-requirements)
-- [Installation](#-installation)
-- [Dependencies](#-dependencies)
-- [Quickstart](#-quickstart)
-- [Releases](#-releases)
-- [Documentation](#-documentation)
-- [Support](#-support)
-
----
+Mobile SDK for iOS and Android integration that enables secure payment processing and POS terminal management in native and hybrid mobile applications.
 
 ## Overview
+
 The Deluxe Mobile SDK simplifies mobile payment integration by combining payment processing, POS terminal connectivity, and merchant operations into a single platform.
 
----
-
-## ✨ Features
+## Features
 
 ### Payments
 - Accept in-person payments
@@ -54,63 +30,58 @@ The Deluxe Mobile SDK simplifies mobile payment integration by combining payment
 - Follow PCI compliance
 
 ### Merchant Services
-- Authentication & authorization
-- Account & terminal management
-- Inventory, tax, discount, reporting
+- Authentication and authorization
+- Account and terminal management
+- Inventory, tax, discount, and reporting
 
-### Reporting & Receipts
+### Reporting and Receipts
 - Transaction history
-- Email & SMS receipts
+- Email and SMS receipts
 
 ### Native SDKs
 - Swift (iOS)
 - Kotlin (Android)
-
----
 
 ## Requirements
 
 ### iOS
 - iOS 13+
 - Xcode 14+
-- iPhone 7+
+- iPhone 7 or later
 
 ### Android
-- Min SDK: API 24
+- Minimum SDK: API 24
 - Target SDK: API 36
 - Kotlin recommended
-
----
 
 ## Installation
 
 ### iOS
-```bash
-Add frameworks:
+
+Add the following frameworks to your project:
+
 - PosSDK.xcframework
 - PaymentSDK.xcframework
 - ServiceSDK.xcframework
 - PaymentHostModule.xcframework
 - TapToPaySDK.xcframework
-```
 
 Steps:
-1. Download SDK
-2. Add frameworks
-3. Set deployment target (iOS 13+)
-4. Link & embed frameworks
+
+1. Download the SDK
+2. Add frameworks to the project
+3. Set deployment target to iOS 13 or later
+4. Link and embed frameworks
 
 ### Android
-```gradle
-Place AAR files in /libs
-```
+
+Place AAR files in the libs directory.
 
 Steps:
-1. Copy AARs
-2. Configure dependencies
-3. Sync project
 
----
+1. Copy AAR files to /libs
+2. Configure dependencies in Gradle
+3. Sync the project
 
 ## Dependencies
 
@@ -128,32 +99,29 @@ Steps:
 - PaymentHostModule
 - TapToPaySDK
 
----
-
 ## Quickstart
-```text
+
 1. Configure environment
 2. Initialize SDK
 3. Authenticate merchant
 4. Connect terminal
 5. Execute transaction
-```
-
----
 
 ## Releases
-Distributed via Developer Portal:
+
+SDK is distributed via the Developer Portal and includes:
+
 - Enhancements
 - Bug fixes
 - Performance improvements
 
----
+## Documentation
 
-## 📖 Documentation
-- [Get Started](https://developer.deluxe.com/docs-content/payments/merchant-services/integration/online-payment-integrations/mobile-sdk/get-started)
-- [Implementation Guide](https://developer.deluxe.com/docs-content/payments/merchant-services/integration/online-payment-integrations/mobile-sdk/mobile-sdk-implementation-guide)
+- Get Started: https://developer.deluxe.com/docs-content/payments/merchant-services/integration/online-payment-integrations/mobile-sdk/get-started
+- Implementation Guide: https://developer.deluxe.com/docs-content/payments/merchant-services/integration/online-payment-integrations/mobile-sdk/mobile-sdk-implementation-guide
 
----
+## Support
 
-## 🤝 Support
-📧 isvinquiries@deluxe.com
+For support, contact:
+
+isvinquiries@deluxe.com
