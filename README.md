@@ -92,17 +92,18 @@ The Deluxe Mobile SDK provides a comprehensive set of tools and services to simp
 The [changelog](https://github.com/Kanagu-durai/MerchantSampleSDK/blob/main/CHANGELOG.md) provides a summary of changes in each release.
 The [migration guide](https://github.com/Kanagu-durai/MerchantSampleSDK/blob/main/MIGRATING.md) provides instructions on upgrading from older versions.
 
+
+
 ## Getting Started
 
-### Integration
+### iOS
 
-Get started with our [integration guides](https://github.com/Kanagu-durai/MerchantSampleSDK) and [example projects](https://github.com/Kanagu-durai/MerchantSampleSDK), or [browse the SDK reference](https://github.com/Kanagu-durai/MerchantSampleSDK) for detailed documentation.
+Get started with our **[integration guides](https://github.com/Kanagu-durai/MerchantSampleSDK/tree/main/iOSSDK/Docs/ImplementationGuide)** and **[example projects](https://github.com/Kanagu-durai/MerchantSampleSDK/tree/main/iOSSDK/Sample)**, or browse the **[iOS SDK reference](https://github.com/Kanagu-durai/MerchantSampleSDK/blob/main/iOSSDK/Docs/IOSSdkReferenceGuide.pdf)** for detailed documentation.
 
-### Examples
+---
 
-- The [MerchantSampleApp](https://github.com/Kanagu-durai/MerchantSampleSDK) demonstrates how to integrate and use the SDK.
-  - How to establish a connection with a Bluetooth terminal
-  - How to use Tap to Pay
+### Android
+Get started with our **[integration guides](https://github.com/Kanagu-durai/MerchantSampleSDK/tree/main/AndroidSDK/Docs/ImplementationGuide)** and **[example projects](https://github.com/Kanagu-durai/MerchantSampleSDK/tree/main/AndroidSDK/Sample)**, or browse the **[Android SDK reference](https://github.com/Kanagu-durai/MerchantSampleSDK/blob/main/AndroidSDK/Docs/AndroidSdkReferenceGuide.pdf)** for detailed documentation.
   
 ## Support
 
