@@ -140,10 +140,10 @@ Refer to the Developer Portal for the latest release notes and upgrade instructi
 The Deluxe Mobile SDK is fully documented on the Deluxe Developer Portal.
 
 ### Get Started
-https://developer.deluxe.com/docs-content/payments/merchant-services/integration/online-payment-integrations/mobile-sdk/get-started
+[Deluxe | Developer Portal](https://developer.deluxe.com/docs-content/payments/merchant-services/integration/online-payment-integrations/mobile-sdk/get-started)
 
 ### Implementation Guide
-https://developer.deluxe.com/docs-content/payments/merchant-services/integration/online-payment-integrations/mobile-sdk/mobile-sdk-implementation-guide
+[Deluxe | Developer Portal](https://developer.deluxe.com/docs-content/payments/merchant-services/integration/online-payment-integrations/mobile-sdk/mobile-sdk-implementation-guide)
 
 These guides provide step-by-step instructions for installation, configuration, and integrating SDK capabilities including payments, terminal management, and merchant services.
 
