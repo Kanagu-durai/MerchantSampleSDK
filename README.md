@@ -1,5 +1,12 @@
 # Deluxe Mobile SDK
 
+![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android-blue)
+![iOS](https://img.shields.io/badge/iOS-13%2B-black)
+![Android](https://img.shields.io/badge/Android-API%2024%2B-green)
+![Language](https://img.shields.io/badge/language-Swift%20%7C%20Kotlin-orange)
+![Release](https://img.shields.io/badge/release-v1.0.0-blue)
+![License](https://img.shields.io/badge/license-Commercial-lightgrey)
+
 Mobile SDK for iOS and Android integration.
 
 The Deluxe Mobile SDK enables developers to integrate secure payment processing and POS terminal management directly into native and hybrid mobile applications. It provides native frameworks for iOS and Android, allowing you to build fast, reliable, and scalable in-person payment experiences.
