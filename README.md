@@ -89,8 +89,8 @@ The Deluxe Mobile SDK provides a comprehensive set of tools and services to simp
 
 ## Releases
 
-The [changelog](https://github.com/Kanagu-durai/MerchantSampleSDK/CHANGELOG.md) provides a summary of changes in each release.
-The [migration guide](https://github.com/Kanagu-durai/MerchantSampleSDK/MIGRATING.md) provides instructions on upgrading from older versions.
+The [changelog](https://github.com/Kanagu-durai/MerchantSampleSDK/blob/main/CHANGELOG.md) provides a summary of changes in each release.
+The [migration guide](https://github.com/Kanagu-durai/MerchantSampleSDK/blob/main/MIGRATING.md) provides instructions on upgrading from older versions.
 
 ## Getting Started
 
