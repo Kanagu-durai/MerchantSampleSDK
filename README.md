@@ -100,8 +100,6 @@ The [migration guide](https://github.com/Kanagu-durai/MerchantSampleSDK/blob/mai
 
 Get started with our **[integration guides](https://github.com/Kanagu-durai/MerchantSampleSDK/tree/main/iOSSDK/Docs/ImplementationGuide)** and **[example projects](https://github.com/Kanagu-durai/MerchantSampleSDK/tree/main/iOSSDK/Sample)**, or browse the **[iOS SDK reference](https://github.com/Kanagu-durai/MerchantSampleSDK/blob/main/iOSSDK/Docs/IOSSdkReferenceGuide.pdf)** for detailed documentation.
 
----
-
 ### Android
 Get started with our **[integration guides](https://github.com/Kanagu-durai/MerchantSampleSDK/tree/main/AndroidSDK/Docs/ImplementationGuide)** and **[example projects](https://github.com/Kanagu-durai/MerchantSampleSDK/tree/main/AndroidSDK/Sample)**, or browse the **[Android SDK reference](https://github.com/Kanagu-durai/MerchantSampleSDK/blob/main/AndroidSDK/Docs/AndroidSdkReferenceGuide.pdf)** for detailed documentation.
   
