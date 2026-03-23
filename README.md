@@ -15,10 +15,8 @@ The SDK is designed for flexibility and performance, supporting secure transacti
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Dependencies](#dependencies)
-- [Quickstart](#quickstart)
 - [Releases](#releases)
-- [Documentation](#documentation)
+- [Getting Started](#documentation)
 - [Support](#support)
 
 ## Overview
